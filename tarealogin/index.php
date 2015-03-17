@@ -1,7 +1,7 @@
 <?php
 session_start();
   if (isset ( $_SESSION ['admin'])) {
-       echo "Bienvenido admin :  ".$_SESSION ['admin'];
+       echo "Bienvenido >>>OSSIRIS<<< :  ".$_SESSION ['admin'];
     } else  {
 ?>    
 
