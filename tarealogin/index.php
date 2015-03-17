@@ -5,7 +5,7 @@ session_start();
     } else  {
 ?>    
 
-<h1>LOGIN PARA INICIAR SESION</h1>
+<h1>LOGIN PARA INICIAR SESION DE ADMIN</h1>
 <form action="comprobacion.php" method="post">
 Usuario <br>
 <input   type="text" name="user"><br>
